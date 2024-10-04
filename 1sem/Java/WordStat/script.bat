@@ -1,0 +1,1 @@
+javac ./WordStatInput.java && javac ./WordStatWords.java && java -ea -jar WordStatTest.jar Words && pause
